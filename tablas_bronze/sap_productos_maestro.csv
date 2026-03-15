@@ -1,0 +1,4 @@
+id_sku,descripcion,categoria,lead_time_dias
+SKU_500ML,Botella_500ml,Personal,2
+SKU_1L,Botella_1L,Personal,2
+SKU_20L,Bidon_20L,Familiar,5

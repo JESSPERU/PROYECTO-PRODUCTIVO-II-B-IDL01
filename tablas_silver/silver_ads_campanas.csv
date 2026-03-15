@@ -1,0 +1,4 @@
+id_campana,nombre_campana,plataforma_origen,fecha_inicio,fecha_fin
+CMP_01,Verano Refrescante,meta ads ,2024-01-01,2024-03-31
+CMP_02,Vuelta a Clases,Google Ads,2024-01-03,2024-04-30
+CMP_03,Cyber Days,TikTok Ads,2024-01-07,2024-07-31
